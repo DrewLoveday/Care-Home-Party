@@ -72,3 +72,5 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+#Any folders containing sprites or other large none code things, ignore and download from a seperate area as Github doesnt move it well.
